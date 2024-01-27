@@ -1,13 +1,23 @@
+
 /* Configuração Global */
-body{
+* {
   margin: 0;
   padding: 0;
-
+}
+/* Propriedade do Seletor Body */
+body{
   text-align: center;
 
   font-family: 'Open Sans', sans-serif;
-
   font-size: 15px;
 
   color: #828282;
 }
+
+/* Propriedades do Seletor Main */
+main {
+  width: 626px;
+  margin: 64px auto;
+    
+}
+
