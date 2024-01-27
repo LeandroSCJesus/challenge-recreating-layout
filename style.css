@@ -1,8 +1,9 @@
+* {
 
 /* Configuração Global */
-* {
   margin: 0;
   padding: 0;
+  
 }
 /* Propriedade do Seletor Body */
 body{
@@ -22,7 +23,7 @@ main {
 }
 /* Propriedades do Seletor Figure e P*/
 figure, article p{
-  margin: 0 auto 32px;
+  margin: 0 auto 16px;
 }
 /* Propriedades do Seletor h1 */
 h1{
@@ -66,4 +67,13 @@ footer a + a{
 /* Propriedade do seletor a */
 a{
   text-decoration: none;
+}
+/* Propriedade do seletor figure */
+footer section figure{
+  margin: 20px auto 0;
+}
+/* Propriedade do Seletor id rodape */
+#rodape{
+  width: 100%;
+  height: 104px;
 }
