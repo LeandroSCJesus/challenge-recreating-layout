@@ -45,8 +45,8 @@ h1 span{
 
   margin: auto;
 }
-/* Propriedades do seletor P span */
-p span{
+/* Propriedades do seletor P span e seletor a */
+p span, a{
   font-weight: bold;
   color: #3F3D56
 }
@@ -58,4 +58,12 @@ p span{
   margin: 0 auto 16px;
 
   border: 1px solid #ECEFF2;
+}
+/* Propriedades do seletor footer */
+footer a + a{
+  margin-left: 42px;
+}
+/* Propriedade do seletor a */
+a{
+  text-decoration: none;
 }
