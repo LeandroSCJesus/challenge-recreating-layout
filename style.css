@@ -33,8 +33,14 @@ h1{
 
   color: #3F3D56;
 }
-
+/* Propriedades do seletor h1 span */
 h1 span{
   font-weight: bold;
   color: #EE24FF;
+}
+/* Pripriedade do seletor p id paragraph */
+#paragraph{
+  width: 540px;
+
+  margin: auto;
 }
