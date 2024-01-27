@@ -20,7 +20,7 @@ main {
     
 }
 /* Propriedades do Seletor Figure e P*/
-figure p{
+figure, article p{
   margin: 0 auto 32px;
 }
 /* Propriedades do Seletor h1 */
