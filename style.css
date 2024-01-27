@@ -28,8 +28,13 @@ h1{
   margin: 0 auto 16px;
 
   font-family: 'Dosis', sans-serif;
-  font-weight: medium;
+  font-weight: 400;
   font-size: 32px;
 
   color: #3F3D56;
+}
+
+h1 span{
+  font-weight: bold;
+  color: #EE24FF;
 }
